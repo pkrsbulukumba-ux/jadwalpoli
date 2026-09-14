@@ -3,6 +3,7 @@
 	import { Volume2, VolumeX, Sparkles, AlertCircle, ExternalLink } from '@lucide/svelte';
 	import type { MediaAnnouncement } from '$lib/types';
 	import { MediaUrlService, type ParsedMediaUrl } from '$lib/services/media-url.service';
+	import { MediaCacheService } from '$lib/services/media-cache.service';
 
 	interface Props {
 		media: MediaAnnouncement;
@@ -33,9 +34,12 @@
 		MediaUrlService.resolveMediaUrl(media.public_url, media.media_type, media.storage_type)
 	);
 
-	// URL video aktif (menggunakan derived dari parsedMedia.resolvedUrl dengan fallback override)
+	// URL video & gambar aktif (mendukung cache lokal blob: untuk menghemat kuota hosting)
 	let overrideVideoSrc = $state<string | null>(null);
-	let activeVideoSrc = $derived(overrideVideoSrc ?? parsedMedia.resolvedUrl);
+	let cachedBlobUrl = $state<string | null>(null);
+	let cachedImageSrc = $state<string | null>(null);
+	let activeVideoSrc = $derived(overrideVideoSrc ?? cachedBlobUrl ?? parsedMedia.resolvedUrl);
+	let activeImageSrc = $derived(cachedImageSrc ?? parsedMedia.resolvedUrl);
 
 	$effect(() => {
 		overrideVideoSrc = null;
@@ -242,6 +246,17 @@
 					handleVideoEnded();
 				}, ytDuration * 1000);
 			} else {
+				// Muat dari Cache Storage lokal TV jika tersedia (0 KB Kuota Hosting)
+				if (parsedMedia.type === 'direct_video' && parsedMedia.resolvedUrl.startsWith('http')) {
+					MediaCacheService.getPlayableMediaUrl(parsedMedia.resolvedUrl)
+						.then((localPlayable) => {
+							if (localPlayable && localPlayable !== parsedMedia.resolvedUrl) {
+								cachedBlobUrl = localPlayable;
+							}
+						})
+						.catch(() => {});
+				}
+
 				if (videoElement) {
 					safePlayVideo();
 				}
@@ -263,6 +278,16 @@
 					window.removeEventListener('click', unlockAudio);
 					window.removeEventListener('touchstart', unlockAudio);
 				};
+			}
+		} else if (media.media_type === 'image') {
+			if (parsedMedia.resolvedUrl.startsWith('http')) {
+				MediaCacheService.getPlayableMediaUrl(parsedMedia.resolvedUrl)
+					.then((localPlayable) => {
+						if (localPlayable && localPlayable !== parsedMedia.resolvedUrl) {
+							cachedImageSrc = localPlayable;
+						}
+					})
+					.catch(() => {});
 			}
 		}
 	});
@@ -368,13 +393,13 @@
 					<!-- Ambient Backdrop Lembut untuk Mengisi Ruang Samping/Atas-Bawah secara Elegan -->
 					<div
 						class="image-ambient-backdrop"
-						style="background-image: url('{encodeURI(parsedMedia.resolvedUrl)}');"
+						style="background-image: url('{encodeURI(activeImageSrc)}');"
 						aria-hidden="true"
 					></div>
 
 					<!-- Gambar Utama: Pas & Utuh di dalam Kotak Dialog, 100% Bebas Terpotong -->
 					<img
-						src={parsedMedia.resolvedUrl}
+						src={activeImageSrc}
 						alt={media.title}
 						class="media-image"
 						loading="eager"

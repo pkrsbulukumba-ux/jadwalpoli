@@ -108,4 +108,17 @@ describe('MediaUrlService & Video URL Resolver', () => {
 		unsub();
 		engine.destroy();
 	});
+
+	it('MediaCacheService harus mengembalikan URL asli jika lingkungan tidak mendukung Cache Storage atau non-HTTP', async () => {
+		const { MediaCacheService } = await import('../src/lib/services/media-cache.service');
+		// URL lokal /api/stream atau file:// tidak di-cache oleh HTTP fetcher
+		const localUrl = '/api/stream?file=video.mp4';
+		const res = await MediaCacheService.getPlayableMediaUrl(localUrl);
+		expect(res).toBe(localUrl);
+
+		// Non-browser fallback aman mengembalikan URL asli
+		const remoteUrl = 'https://example.com/video.mp4';
+		const res2 = await MediaCacheService.getPlayableMediaUrl(remoteUrl);
+		expect(res2).toBe(remoteUrl);
+	});
 });

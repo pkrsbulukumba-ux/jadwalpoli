@@ -25,6 +25,7 @@
 	import { kioskSettings } from '$lib/stores/kiosk.store';
 	import { SlideshowEngine, type SlideshowState } from '$lib/services/slideshow.engine';
 	import { OfflineService } from '$lib/services/offline.service';
+	import { MediaCacheService } from '$lib/services/media-cache.service';
 	import type { KioskSettings, DoctorScheduleCardData } from '$lib/types';
 
 	const initialData = KioskDataService.generateKioskSlides();
@@ -204,6 +205,17 @@
 
 			// Simpan snapshot sukses ke penyimpanan offline lokal
 			OfflineService.saveSnapshot(result.slides, result.settings, result.currentDayOfWeek);
+
+			// Pra-unduh berkas media pengumuman (video & gambar) ke Cache Storage TV di latar belakang (0 KB Kuota pada putaran berulang)
+			const mediaUrls: string[] = [];
+			for (const slide of result.slides) {
+				if (slide.type === 'media' && slide.media?.public_url) {
+					mediaUrls.push(slide.media.public_url);
+				}
+			}
+			if (mediaUrls.length > 0) {
+				MediaCacheService.prefetchMediaUrls(mediaUrls);
+			}
 
 			if (engine) {
 				engine.updateSlides(result.slides);
