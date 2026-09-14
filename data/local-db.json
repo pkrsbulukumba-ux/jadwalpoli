@@ -9,7 +9,7 @@
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-2",
@@ -20,7 +20,7 @@
       "is_active": true,
       "display_order": 2,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-4",
@@ -31,7 +31,7 @@
       "is_active": true,
       "display_order": 3,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-6",
@@ -42,7 +42,7 @@
       "is_active": true,
       "display_order": 4,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-1788928328490",
@@ -53,7 +53,7 @@
       "is_active": true,
       "display_order": 5,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-paru",
@@ -64,7 +64,7 @@
       "is_active": true,
       "display_order": 6,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-saraf",
@@ -75,7 +75,7 @@
       "is_active": true,
       "display_order": 7,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-tht",
@@ -86,7 +86,7 @@
       "is_active": true,
       "display_order": 8,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-onkologi",
@@ -97,7 +97,7 @@
       "is_active": true,
       "display_order": 9,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-rehab",
@@ -108,7 +108,7 @@
       "is_active": true,
       "display_order": 10,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-anak",
@@ -119,7 +119,7 @@
       "is_active": true,
       "display_order": 11,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-bedah",
@@ -130,7 +130,7 @@
       "is_active": true,
       "display_order": 12,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-5",
@@ -141,7 +141,7 @@
       "is_active": true,
       "display_order": 13,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-obgyn",
@@ -152,7 +152,7 @@
       "is_active": true,
       "display_order": 14,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-3",
@@ -163,7 +163,7 @@
       "is_active": true,
       "display_order": 15,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-nyeri",
@@ -174,7 +174,7 @@
       "is_active": true,
       "display_order": 16,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-gizi",
@@ -185,7 +185,7 @@
       "is_active": true,
       "display_order": 17,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-gigi-endo",
@@ -196,7 +196,7 @@
       "is_active": true,
       "display_order": 18,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-gigi-perio",
@@ -207,7 +207,7 @@
       "is_active": true,
       "display_order": 19,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-gigi-prosth",
@@ -218,7 +218,7 @@
       "is_active": true,
       "display_order": 20,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-bedah-saraf",
@@ -229,7 +229,7 @@
       "is_active": true,
       "display_order": 21,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-radiologi",
@@ -240,7 +240,7 @@
       "is_active": true,
       "display_order": 22,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-mcu",
@@ -251,7 +251,7 @@
       "is_active": true,
       "display_order": 23,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-laboratorium",
@@ -262,7 +262,7 @@
       "is_active": true,
       "display_order": 24,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-1789218750636",
@@ -273,7 +273,7 @@
       "is_active": true,
       "display_order": 25,
       "created_at": "2026-09-12T13:11:05.435195+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     },
     {
       "id": "poli-1789218809876",
@@ -284,460 +284,449 @@
       "is_active": true,
       "display_order": 26,
       "created_at": "2026-09-12T13:12:04.348286+00:00",
-      "updated_at": "2026-09-13T03:48:30.89202+00:00"
+      "updated_at": "2026-09-14T07:06:24.625194+00:00"
     }
   ],
   "doctors": [
     {
-      "id": "doc-1788964412714-19y97",
-      "full_name": "dr. Hj. Jusniati, Sp.PK",
-      "title": "Laboratorium Patologi Klinik",
-      "photo_url": "/uploads/doctors/1788964411303_12.png",
-      "polyclinic_id": "poli-1789218809876",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788962730041-dzveg",
-      "full_name": "dr. Hamka, Sp.P",
-      "title": "Paru",
-      "photo_url": "/uploads/doctors/1788962728850_2.png",
-      "polyclinic_id": "poli-paru",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963584662-x3z6k",
-      "full_name": "dr. Usman, Sp.An-TI, M.Kes, Subsp.MN(K)",
-      "title": "Nyeri",
-      "photo_url": "/uploads/doctors/1788963583849_drusman.jpg",
-      "polyclinic_id": "poli-nyeri",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
       "id": "doc-1788963617897-g3zxm",
       "full_name": "dr. Rismayanti Waris, Sp.GK., M. Kes",
       "title": "Gizi",
-      "photo_url": "/uploads/doctors/1788963616525_drrisma.jpg",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282914921_1788963616525_drrisma.jpg",
       "polyclinic_id": "poli-gizi",
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1788962779092-si7at",
       "full_name": "dr. Ismawati, Sp.S",
       "title": "Safaf",
-      "photo_url": "/uploads/doctors/1788962777949_16.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282405606_1788962777949_16.png",
       "polyclinic_id": "poli-saraf",
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1788963730168-ncgau",
       "full_name": "drg. Evri Kusumah Ningtyas, Sp.KG",
       "title": "Gigi Endodonsi",
-      "photo_url": "/uploads/doctors/1788963729237_10.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282935520_1788963729237_10.png",
       "polyclinic_id": "poli-gigi-endo",
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1788963814738-19k7s",
       "full_name": "drg. Andriani Rukmana, Sp. Perio",
       "title": "Gigi Periodonti",
-      "photo_url": "/uploads/doctors/1788963813901_15.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282963477_1788963813901_15.png",
       "polyclinic_id": "poli-gigi-perio",
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788962701482-z0wna",
-      "full_name": "dr. Sufandi Fahmi, Sp.OT",
-      "title": "Orthopedi",
-      "photo_url": "/uploads/doctors/1788962700409_dklk.jpg",
-      "polyclinic_id": "poli-1788928328490",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963420072-i0dkc",
-      "full_name": "dr. Hj. Andi Asniar Siri, Sp.OG., M.Kes",
-      "title": "Obstetri dan Ginekologi",
-      "photo_url": "/uploads/doctors/1788963419148_drasniar.jpg",
-      "polyclinic_id": "poli-obgyn",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963884886-wwtia",
-      "full_name": "drg. Ikhriani, Sp. Pros",
-      "title": "Gigi Prosthodonti",
-      "photo_url": "/uploads/doctors/1788963883798_8.png",
-      "polyclinic_id": "poli-gigi-prosth",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788961829072-es6gr",
-      "full_name": "dr. Rosmiaty Zainal Abidin, Sp.M., M.Kes",
-      "title": "Mata",
-      "photo_url": "/uploads/doctors/1788961827670_19.png",
-      "polyclinic_id": "poli-6",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963101117-rkif5",
-      "full_name": "dr. Bambang Haryanto, Sp.A",
-      "title": "Anak",
-      "photo_url": "/uploads/doctors/1788963098764_dklk.jpg",
-      "polyclinic_id": "poli-anak",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963024477-16fkb",
-      "full_name": "dr. Gita Refina",
-      "title": "Rehab Medik",
-      "photo_url": "/uploads/doctors/1788963023381_dk.png",
-      "polyclinic_id": "poli-rehab",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788964097268-dr3ik",
-      "full_name": "DOKTER UMUM",
-      "title": "Medical Check-Up",
-      "photo_url": "/uploads/doctors/1788964096159_dr.jpg",
-      "polyclinic_id": "poli-mcu",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788964314734-y0rme",
-      "full_name": "dr. Utma Laela Warka, Sp.MK",
-      "title": "Laboratorium",
-      "photo_url": "/uploads/doctors/1788964313815_17.png",
-      "polyclinic_id": "poli-laboratorium",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963962715-4u0xg",
-      "full_name": "dr. Muhammad Asy Shidiq",
-      "title": "Bedah Saraf",
-      "photo_url": "/uploads/doctors/1788963961872_dklk.jpg",
-      "polyclinic_id": "poli-bedah-saraf",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963289727-funbk",
-      "full_name": "dr. Syamsuddin, Sp.PD",
-      "title": "Penyakit Dalam",
-      "photo_url": "/uploads/doctors/1788963288564_drsyam.jpg",
-      "polyclinic_id": "poli-5",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788962853855-onyuh",
-      "full_name": "dr. Andi Tenri Uleng, Sp.THT-KL., M.Kes",
-      "title": "THT",
-      "photo_url": "/uploads/doctors/1788962852661_18.png",
-      "polyclinic_id": "poli-tht",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788964245058-ty14m",
-      "full_name": "dr. Rahmawati Tahir Lopa Sp.Rad, M.Kes",
-      "title": "Radiologi",
-      "photo_url": "/uploads/doctors/1788964243836_drrahma.jpg",
-      "polyclinic_id": "poli-radiologi",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963214102-nm49s",
-      "full_name": "dr. Abdul Khalis, Sp.B",
-      "title": "Bedah",
-      "photo_url": "/uploads/doctors/1788963211855_dklk.jpg",
-      "polyclinic_id": "poli-bedah",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788959564306",
-      "full_name": "dr. Riska Mega Hikmah Waliulu, Sp.KJ",
-      "title": "Spesialis Jiwa",
-      "photo_url": "/uploads/doctors/1788959560348_3.png",
-      "polyclinic_id": "poli-2",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1788962893046-cyhkl",
       "full_name": "dr. Adhyatma Jaya Ningrat, M. Kes, Sp. B, Subsp. Onk(K)",
       "title": "Bedah Onkologi",
-      "photo_url": "/uploads/doctors/1788962891647_21.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282759380_1788962891647_21.png",
       "polyclinic_id": "poli-onkologi",
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1",
       "full_name": "dr. Deni Syamsuddin, Sp.JP",
       "title": "Spesialis Jantung & Pembuluh Darah",
-      "photo_url": "/uploads/doctors/1788922592536_1.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282201063_1788922592536_1.png",
       "polyclinic_id": "poli-1",
       "is_active": true,
       "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
-      "id": "doc-1788959781562",
-      "full_name": "dr. Timurleng Tonang Mataallo, Sp.KK, M.Kes",
-      "title": "Kulit dan Kelamin",
-      "photo_url": "/uploads/doctors/1788959779246_13.png",
-      "polyclinic_id": "poli-4",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963500965-l9urn",
-      "full_name": "dr. Hj. Andi Asniar Siri, Sp.OG., M.Kes",
-      "title": "KB",
-      "photo_url": "/uploads/doctors/1788963499658_drasniar.jpg",
-      "polyclinic_id": "poli-3",
-      "is_active": true,
-      "display_order": 1,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963240442-fxmiy",
-      "full_name": "dr. Ayu Yuniandini, Sp.B., M.Kes",
-      "title": "Bedah",
-      "photo_url": "/uploads/doctors/1788963238875_drayu.jpg",
-      "polyclinic_id": "poli-bedah",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963843877-aubng",
-      "full_name": "drg. Nur Masyta Suriadi, Sp. Perio",
-      "title": "Gigi Periodonti",
-      "photo_url": "/uploads/doctors/1788963842873_6.png",
-      "polyclinic_id": "poli-gigi-perio",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788958218986",
-      "full_name": "dr. A. Fadliah Abadi, Sp. JP",
-      "title": "Spesialis Jantung",
-      "photo_url": "/uploads/doctors/1788958214902_drfadillah.jpg",
-      "polyclinic_id": "poli-1",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788962130046-9exog",
-      "full_name": "dr. Azhar Farid Musaddik, Sp.M, M.Kes",
-      "title": "Mata",
-      "photo_url": "/uploads/doctors/1788962128639_22.jpg",
-      "polyclinic_id": "poli-6",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788962813840-xrqxn",
-      "full_name": "dr. Surhaemi Syamsuddin, Sp.N",
-      "title": "Safaf",
-      "photo_url": "/uploads/doctors/1788962811863_dk.png",
-      "polyclinic_id": "poli-saraf",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963132672-byi1x",
-      "full_name": "dr. Yustin Andriani, Sp.A., M.Kes",
-      "title": "Anak",
-      "photo_url": "/uploads/doctors/1788963141335_4.png",
-      "polyclinic_id": "poli-anak",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963333880-r4ea1",
-      "full_name": "dr. Fahidah Faisal, Sp.PD",
+      "id": "doc-1788963289727-funbk",
+      "full_name": "dr. Syamsuddin, Sp.PD",
       "title": "Penyakit Dalam",
-      "photo_url": "/uploads/doctors/1788963332964_drfahidah.jpg",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282836480_1788963288564_drsyam.jpg",
       "polyclinic_id": "poli-5",
       "is_active": true,
-      "display_order": 2,
+      "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
-      "id": "doc-1788963444349-djoug",
-      "full_name": "dr. Andi Achmed Onterio, Sp.OG., M.Kes",
-      "title": "Obstetri dan Ginekologi",
-      "photo_url": "/uploads/doctors/1788963443505_5.png",
-      "polyclinic_id": "poli-obgyn",
+      "id": "doc-1788964097268-dr3ik",
+      "full_name": "DOKTER UMUM",
+      "title": "Medical Check-Up",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283195931_1788964096159_dr.jpg",
+      "polyclinic_id": "poli-mcu",
       "is_active": true,
-      "display_order": 2,
+      "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
-      "id": "doc-1788963767053-d4spa",
-      "full_name": "drg. Farida Rahim, Sp.KG",
-      "title": "Gigi Endodonsi",
-      "photo_url": "/uploads/doctors/1788963766184_7.png",
-      "polyclinic_id": "poli-gigi-endo",
+      "id": "doc-1788964314734-y0rme",
+      "full_name": "dr. Utma Laela Warka, Sp.MK",
+      "title": "Laboratorium",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283023029_1788964313815_17.png",
+      "polyclinic_id": "poli-laboratorium",
       "is_active": true,
-      "display_order": 2,
+      "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963521684-r77y2",
-      "full_name": "dr. Andi Achmed Onterio, Sp.OG., M.Kes",
-      "title": "KB",
-      "photo_url": "/uploads/doctors/1788963520375_5.png",
-      "polyclinic_id": "poli-3",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963675924-aih9q",
-      "full_name": "dr. Hasidawati Daud, Sp.GK., M. Kes",
-      "title": "Gizi",
-      "photo_url": "/uploads/doctors/1788963675206_dk.png",
-      "polyclinic_id": "poli-gizi",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788963910472-nvxwy",
-      "full_name": "drg. Darmiaty, Sp. Pros",
-      "title": "Gigi Prosthodonti",
-      "photo_url": "/uploads/doctors/1788963909561_9.png",
-      "polyclinic_id": "poli-gigi-prosth",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
-    },
-    {
-      "id": "doc-1788964442554-vo975",
-      "full_name": "dr. Hj. Ariani Said Culla, M.Kes, Sp.PK",
-      "title": "Laboratorium Patologi Klinik",
-      "photo_url": "/uploads/doctors/1788964441834_14.png",
-      "polyclinic_id": "poli-1789218809876",
-      "is_active": true,
-      "display_order": 2,
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1788964367401-fyljt",
       "full_name": "dr. Aisyah Amelia Marissa, Sp.PA",
       "title": "Laboratorium Patologi Anatomi",
-      "photo_url": "/uploads/doctors/1788964366088_11.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283030941_1788964366088_11.png",
       "polyclinic_id": "poli-1789218750636",
       "is_active": true,
-      "display_order": 3,
+      "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
-      "id": "doc-1788963357810-dj8xf",
-      "full_name": "dr. Yonarti, Sp.PD",
-      "title": "Penyakit Dalam",
-      "photo_url": "/uploads/doctors/1788963356728_dryona.jpg",
-      "polyclinic_id": "poli-5",
+      "id": "doc-1788963962715-4u0xg",
+      "full_name": "dr. Muhammad Asy Shidiq",
+      "title": "Bedah Saraf",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283001894_1788963098764_dklk.jpg",
+      "polyclinic_id": "poli-bedah-saraf",
       "is_active": true,
-      "display_order": 3,
+      "display_order": 1,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
-      "id": "doc-1788963174268-kextv",
-      "full_name": "dr. Nursyamsuddin, Sp.A., M.Kes",
+      "id": "doc-1788963420072-i0dkc",
+      "full_name": "dr. Hj. Andi Asniar Siri, Sp.OG., M.Kes",
+      "title": "Obstetri dan Ginekologi",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282861567_1788963419148_drasniar.jpg",
+      "polyclinic_id": "poli-obgyn",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963101117-rkif5",
+      "full_name": "dr. Bambang Haryanto, Sp.A",
       "title": "Anak",
-      "photo_url": "/uploads/doctors/1788963173096_20.png",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282782453_1788963098764_dklk.jpg",
       "polyclinic_id": "poli-anak",
       "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963584662-x3z6k",
+      "full_name": "dr. Usman, Sp.An-TI, M.Kes, Subsp.MN(K)",
+      "title": "Nyeri",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282906186_1788963583849_drusman.jpg",
+      "polyclinic_id": "poli-nyeri",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788962853855-onyuh",
+      "full_name": "dr. Andi Tenri Uleng, Sp.THT-KL., M.Kes",
+      "title": "THT",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282427587_1788962852661_18.png",
+      "polyclinic_id": "poli-tht",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788964245058-ty14m",
+      "full_name": "dr. Rahmawati Tahir Lopa Sp.Rad, M.Kes",
+      "title": "Radiologi",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283011267_1788964243836_drrahma.jpg",
+      "polyclinic_id": "poli-radiologi",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788962701482-z0wna",
+      "full_name": "dr. Sufandi Fahmi, Sp.OT",
+      "title": "Orthopedi",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282338517_1788963098764_dklk.jpg",
+      "polyclinic_id": "poli-1788928328490",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963500965-l9urn",
+      "full_name": "dr. Hj. Andi Asniar Siri, Sp.OG., M.Kes",
+      "title": "KB",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282888146_1788963499658_drasniar.jpg",
+      "polyclinic_id": "poli-3",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788964412714-19y97",
+      "full_name": "dr. Hj. Jusniati, Sp.PK",
+      "title": "Laboratorium Patologi Klinik",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283038264_1788964411303_12.png",
+      "polyclinic_id": "poli-1789218809876",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788962730041-dzveg",
+      "full_name": "dr. Hamka, Sp.P",
+      "title": "Paru",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282391056_1788962728850_2.png",
+      "polyclinic_id": "poli-paru",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788959781562",
+      "full_name": "dr. Timurleng Tonang Mataallo, Sp.KK, M.Kes",
+      "title": "Kulit dan Kelamin",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282224197_1788959779246_13.png",
+      "polyclinic_id": "poli-4",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788959564306",
+      "full_name": "dr. Riska Mega Hikmah Waliulu, Sp.KJ",
+      "title": "Spesialis Jiwa",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282216324_1788959560348_3.png",
+      "polyclinic_id": "poli-2",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963214102-nm49s",
+      "full_name": "dr. Abdul Khalis, Sp.B",
+      "title": "Bedah",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282806380_1788963098764_dklk.jpg",
+      "polyclinic_id": "poli-bedah",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963024477-16fkb",
+      "full_name": "dr. Gita Refina",
+      "title": "Rehab Medik",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282772314_1788963675206_dk.png",
+      "polyclinic_id": "poli-rehab",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788961829072-es6gr",
+      "full_name": "dr. Rosmiaty Zainal Abidin, Sp.M., M.Kes",
+      "title": "Mata",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282306526_1788961827670_19.png",
+      "polyclinic_id": "poli-6",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963884886-wwtia",
+      "full_name": "drg. Ikhriani, Sp. Pros",
+      "title": "Gigi Prosthodonti",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282986703_1788963883798_8.png",
+      "polyclinic_id": "poli-gigi-prosth",
+      "is_active": true,
+      "display_order": 1,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963444349-djoug",
+      "full_name": "dr. Andi Achmed Onterio, Sp.OG., M.Kes",
+      "title": "Obstetri dan Ginekologi",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282878453_1788963443505_5.png",
+      "polyclinic_id": "poli-obgyn",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963910472-nvxwy",
+      "full_name": "drg. Darmiaty, Sp. Pros",
+      "title": "Gigi Prosthodonti",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282995033_1788963909561_9.png",
+      "polyclinic_id": "poli-gigi-prosth",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963240442-fxmiy",
+      "full_name": "dr. Ayu Yuniandini, Sp.B., M.Kes",
+      "title": "Bedah",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282817888_1788963238875_drayu.jpg",
+      "polyclinic_id": "poli-bedah",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788962813840-xrqxn",
+      "full_name": "dr. Surhaemi Syamsuddin, Sp.N",
+      "title": "Safaf",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282415624_1788963675206_dk.png",
+      "polyclinic_id": "poli-saraf",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788962130046-9exog",
+      "full_name": "dr. Azhar Farid Musaddik, Sp.M, M.Kes",
+      "title": "Mata",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282313751_1788962128639_22.jpg",
+      "polyclinic_id": "poli-6",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788958218986",
+      "full_name": "dr. A. Fadliah Abadi, Sp. JP",
+      "title": "Spesialis Jantung",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282209182_1788958214902_drfadillah.jpg",
+      "polyclinic_id": "poli-1",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963521684-r77y2",
+      "full_name": "dr. Andi Achmed Onterio, Sp.OG., M.Kes",
+      "title": "KB",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282894793_1788963520375_5.png",
+      "polyclinic_id": "poli-3",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963767053-d4spa",
+      "full_name": "drg. Farida Rahim, Sp.KG",
+      "title": "Gigi Endodonsi",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282944107_1788963766184_7.png",
+      "polyclinic_id": "poli-gigi-endo",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963843877-aubng",
+      "full_name": "drg. Nur Masyta Suriadi, Sp. Perio",
+      "title": "Gigi Periodonti",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282973794_1788963842873_6.png",
+      "polyclinic_id": "poli-gigi-perio",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963675924-aih9q",
+      "full_name": "dr. Hasidawati Daud, Sp.GK., M. Kes",
+      "title": "Gizi",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282924600_1788963675206_dk.png",
+      "polyclinic_id": "poli-gizi",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963333880-r4ea1",
+      "full_name": "dr. Fahidah Faisal, Sp.PD",
+      "title": "Penyakit Dalam",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282844654_1788963332964_drfahidah.jpg",
+      "polyclinic_id": "poli-5",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788964442554-vo975",
+      "full_name": "dr. Hj. Ariani Said Culla, M.Kes, Sp.PK",
+      "title": "Laboratorium Patologi Klinik",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789283044495_1788964441834_14.png",
+      "polyclinic_id": "poli-1789218809876",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963132672-byi1x",
+      "full_name": "dr. Yustin Andriani, Sp.A., M.Kes",
+      "title": "Anak",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282790637_1788963141335_4.png",
+      "polyclinic_id": "poli-anak",
+      "is_active": true,
+      "display_order": 2,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788962371156-lbr3d",
+      "full_name": "dr. Aisyah Muhlisah, Sp.M., M.Kes",
+      "title": "Mata",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282325656_1788962370128_mata.png",
+      "polyclinic_id": "poli-6",
+      "is_active": true,
       "display_order": 3,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
       "id": "doc-1788963262274-le5yy",
@@ -748,18 +737,29 @@
       "is_active": true,
       "display_order": 3,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     },
     {
-      "id": "doc-1788962371156-lbr3d",
-      "full_name": "dr. Aisyah Muhlisah, Sp.M., M.Kes",
-      "title": "Mata",
-      "photo_url": "/uploads/doctors/1788962370128_mata.png",
-      "polyclinic_id": "poli-6",
+      "id": "doc-1788963357810-dj8xf",
+      "full_name": "dr. Yonarti, Sp.PD",
+      "title": "Penyakit Dalam",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282853321_1788963356728_dryona.jpg",
+      "polyclinic_id": "poli-5",
       "is_active": true,
       "display_order": 3,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081282+00:00"
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
+    },
+    {
+      "id": "doc-1788963174268-kextv",
+      "full_name": "dr. Nursyamsuddin, Sp.A., M.Kes",
+      "title": "Anak",
+      "photo_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/doctors/1789282797532_1788963173096_20.png",
+      "polyclinic_id": "poli-anak",
+      "is_active": true,
+      "display_order": 3,
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.566814+00:00"
     }
   ],
   "weeklySchedules": [
@@ -773,7 +773,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219196273-895",
@@ -785,7 +785,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:18:30.45147+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219471732-825",
@@ -797,7 +797,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:05.98652+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219484755-622",
@@ -809,7 +809,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:18.814827+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1",
@@ -821,7 +821,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-2",
@@ -833,7 +833,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-3",
@@ -845,7 +845,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788958276144-8",
@@ -857,7 +857,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788964560400-218",
@@ -869,7 +869,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966235287-78",
@@ -881,7 +881,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966235290-151",
@@ -893,7 +893,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966347370-816",
@@ -905,7 +905,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966374953-106",
@@ -917,7 +917,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219484752-784",
@@ -929,7 +929,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:18.840558+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788959845373-520",
@@ -941,7 +941,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788964560398-187",
@@ -953,7 +953,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219196270-407",
@@ -965,7 +965,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:18:30.45251+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965480331-481",
@@ -977,7 +977,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219471726-69",
@@ -989,7 +989,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:06.102062+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219484759-964",
@@ -1001,7 +1001,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:18.842892+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965383640-435",
@@ -1013,7 +1013,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965383642-423",
@@ -1025,7 +1025,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965383644-759",
@@ -1037,7 +1037,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965383646-121",
@@ -1049,7 +1049,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965435971-925",
@@ -1061,7 +1061,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965435974-585",
@@ -1073,7 +1073,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965435978-895",
@@ -1085,7 +1085,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219196264-727",
@@ -1097,91 +1097,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:18:30.45605+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788964579252-762",
-      "doctor_id": "doc-1788962130046-9exog",
-      "polyclinic_id": "poli-6",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788964579254-904",
-      "doctor_id": "doc-1788962130046-9exog",
-      "polyclinic_id": "poli-6",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788964603278-641",
-      "doctor_id": "doc-1788962371156-lbr3d",
-      "polyclinic_id": "poli-6",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788964603279-276",
-      "doctor_id": "doc-1788962371156-lbr3d",
-      "polyclinic_id": "poli-6",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965383636-61",
-      "doctor_id": "doc-1788962701482-z0wna",
-      "polyclinic_id": "poli-1788928328490",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965817181-255",
-      "doctor_id": "doc-1788963174268-kextv",
-      "polyclinic_id": "poli-anak",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965817183-400",
-      "doctor_id": "doc-1788963174268-kextv",
-      "polyclinic_id": "poli-anak",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965854635-347",
@@ -1193,7 +1109,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965854637-835",
@@ -1205,7 +1121,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965897209-85",
@@ -1217,7 +1133,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788965897212-217",
@@ -1229,331 +1145,91 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788965897214-264",
-      "doctor_id": "doc-1788963214102-nm49s",
-      "polyclinic_id": "poli-bedah",
+      "id": "sch-1788964579252-762",
+      "doctor_id": "doc-1788962130046-9exog",
+      "polyclinic_id": "poli-6",
       "day_of_week": 3,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788966201763-451",
-      "doctor_id": "doc-1788963584662-x3z6k",
-      "polyclinic_id": "poli-nyeri",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966201766-142",
-      "doctor_id": "doc-1788963584662-x3z6k",
-      "polyclinic_id": "poli-nyeri",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966201768-512",
-      "doctor_id": "doc-1788963584662-x3z6k",
-      "polyclinic_id": "poli-nyeri",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1789219196267-365",
-      "doctor_id": "doc-1788964367401-fyljt",
-      "polyclinic_id": "poli-1789218750636",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T13:18:30.732505+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1789219484757-320",
-      "doctor_id": "doc-1788964442554-vo975",
-      "polyclinic_id": "poli-1789218809876",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T13:23:18.863106+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966409200-8",
-      "doctor_id": "doc-1788963962715-4u0xg",
-      "polyclinic_id": "poli-bedah-saraf",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966409202-664",
-      "doctor_id": "doc-1788963962715-4u0xg",
-      "polyclinic_id": "poli-bedah-saraf",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966409205-680",
-      "doctor_id": "doc-1788963962715-4u0xg",
-      "polyclinic_id": "poli-bedah-saraf",
+      "id": "sch-1788964579254-904",
+      "doctor_id": "doc-1788962130046-9exog",
+      "polyclinic_id": "poli-6",
       "day_of_week": 4,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788966409207-178",
-      "doctor_id": "doc-1788963962715-4u0xg",
-      "polyclinic_id": "poli-bedah-saraf",
+      "id": "sch-1788964603278-641",
+      "doctor_id": "doc-1788962371156-lbr3d",
+      "polyclinic_id": "poli-6",
       "day_of_week": 5,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788966201770-18",
-      "doctor_id": "doc-1788963584662-x3z6k",
-      "polyclinic_id": "poli-nyeri",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966201772-362",
-      "doctor_id": "doc-1788963584662-x3z6k",
-      "polyclinic_id": "poli-nyeri",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966201774-972",
-      "doctor_id": "doc-1788963584662-x3z6k",
-      "polyclinic_id": "poli-nyeri",
+      "id": "sch-1788964603279-276",
+      "doctor_id": "doc-1788962371156-lbr3d",
+      "polyclinic_id": "poli-6",
       "day_of_week": 6,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788966224015-750",
-      "doctor_id": "doc-1788963617897-g3zxm",
-      "polyclinic_id": "poli-gizi",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966224018-289",
-      "doctor_id": "doc-1788963617897-g3zxm",
-      "polyclinic_id": "poli-gizi",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966374956-913",
-      "doctor_id": "doc-1788963884886-wwtia",
-      "polyclinic_id": "poli-gigi-prosth",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966374958-983",
-      "doctor_id": "doc-1788963884886-wwtia",
-      "polyclinic_id": "poli-gigi-prosth",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966389881-976",
-      "doctor_id": "doc-1788963910472-nvxwy",
-      "polyclinic_id": "poli-gigi-prosth",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966389884-897",
-      "doctor_id": "doc-1788963910472-nvxwy",
-      "polyclinic_id": "poli-gigi-prosth",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966389886-863",
-      "doctor_id": "doc-1788963910472-nvxwy",
-      "polyclinic_id": "poli-gigi-prosth",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966409197-562",
-      "doctor_id": "doc-1788963962715-4u0xg",
-      "polyclinic_id": "poli-bedah-saraf",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966509088-295",
-      "doctor_id": "doc-1788964314734-y0rme",
-      "polyclinic_id": "poli-laboratorium",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965383638-187",
+      "id": "sch-1788965383636-61",
       "doctor_id": "doc-1788962701482-z0wna",
       "polyclinic_id": "poli-1788928328490",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966235293-527",
-      "doctor_id": "doc-1788963675924-aih9q",
-      "polyclinic_id": "poli-gizi",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966266776-990",
-      "doctor_id": "doc-1788963730168-ncgau",
-      "polyclinic_id": "poli-gigi-endo",
       "day_of_week": 1,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788966266778-629",
-      "doctor_id": "doc-1788963730168-ncgau",
-      "polyclinic_id": "poli-gigi-endo",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966266780-89",
-      "doctor_id": "doc-1788963730168-ncgau",
-      "polyclinic_id": "poli-gigi-endo",
+      "id": "sch-1788965817181-255",
+      "doctor_id": "doc-1788963174268-kextv",
+      "polyclinic_id": "poli-anak",
       "day_of_week": 3,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965817183-400",
+      "doctor_id": "doc-1788963174268-kextv",
+      "polyclinic_id": "poli-anak",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966286791-310",
@@ -1565,7 +1241,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966286794-210",
@@ -1577,43 +1253,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966286796-357",
-      "doctor_id": "doc-1788963767053-d4spa",
-      "polyclinic_id": "poli-gigi-endo",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966325199-797",
-      "doctor_id": "doc-1788963814738-19k7s",
-      "polyclinic_id": "poli-gigi-perio",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966325202-916",
-      "doctor_id": "doc-1788963814738-19k7s",
-      "polyclinic_id": "poli-gigi-perio",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788959606502-822",
@@ -1625,595 +1265,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959606503-316",
-      "doctor_id": "doc-1788959564306",
-      "polyclinic_id": "poli-2",
-      "day_of_week": 4,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959606505-996",
-      "doctor_id": "doc-1788959564306",
-      "polyclinic_id": "poli-2",
-      "day_of_week": 5,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959606508-545",
-      "doctor_id": "doc-1788959564306",
-      "polyclinic_id": "poli-2",
-      "day_of_week": 6,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959845364-86",
-      "doctor_id": "doc-1788959781562",
-      "polyclinic_id": "poli-4",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959845367-790",
-      "doctor_id": "doc-1788959781562",
-      "polyclinic_id": "poli-4",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959845369-513",
-      "doctor_id": "doc-1788959781562",
-      "polyclinic_id": "poli-4",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959845370-165",
-      "doctor_id": "doc-1788959781562",
-      "polyclinic_id": "poli-4",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959845372-685",
-      "doctor_id": "doc-1788959781562",
-      "polyclinic_id": "poli-4",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1789219196261-809",
-      "doctor_id": "doc-1788964367401-fyljt",
-      "polyclinic_id": "poli-1789218750636",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T13:18:30.451377+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1789219471734-908",
-      "doctor_id": "doc-1788964412714-19y97",
-      "polyclinic_id": "poli-1789218809876",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T13:23:06.100676+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965480327-113",
-      "doctor_id": "doc-1788962813840-xrqxn",
-      "polyclinic_id": "poli-saraf",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965435981-277",
-      "doctor_id": "doc-1788962730041-dzveg",
-      "polyclinic_id": "poli-paru",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965435982-136",
-      "doctor_id": "doc-1788962730041-dzveg",
-      "polyclinic_id": "poli-paru",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965469787-43",
-      "doctor_id": "doc-1788962779092-si7at",
-      "polyclinic_id": "poli-saraf",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965469790-310",
-      "doctor_id": "doc-1788962779092-si7at",
-      "polyclinic_id": "poli-saraf",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965469791-656",
-      "doctor_id": "doc-1788962779092-si7at",
-      "polyclinic_id": "poli-saraf",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965540257-852",
-      "doctor_id": "doc-1788962853855-onyuh",
-      "polyclinic_id": "poli-tht",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965540260-397",
-      "doctor_id": "doc-1788962853855-onyuh",
-      "polyclinic_id": "poli-tht",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965540262-633",
-      "doctor_id": "doc-1788962853855-onyuh",
-      "polyclinic_id": "poli-tht",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965540264-214",
-      "doctor_id": "doc-1788962853855-onyuh",
-      "polyclinic_id": "poli-tht",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965540266-576",
-      "doctor_id": "doc-1788962853855-onyuh",
-      "polyclinic_id": "poli-tht",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965540268-567",
-      "doctor_id": "doc-1788962853855-onyuh",
-      "polyclinic_id": "poli-tht",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965588269-781",
-      "doctor_id": "doc-1788962893046-cyhkl",
-      "polyclinic_id": "poli-onkologi",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965588272-634",
-      "doctor_id": "doc-1788962893046-cyhkl",
-      "polyclinic_id": "poli-onkologi",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965673747-350",
-      "doctor_id": "doc-1788963024477-16fkb",
-      "polyclinic_id": "poli-rehab",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965673750-829",
-      "doctor_id": "doc-1788963024477-16fkb",
-      "polyclinic_id": "poli-rehab",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965673752-128",
-      "doctor_id": "doc-1788963024477-16fkb",
-      "polyclinic_id": "poli-rehab",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965792139-547",
-      "doctor_id": "doc-1788963101117-rkif5",
-      "polyclinic_id": "poli-anak",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965792142-921",
-      "doctor_id": "doc-1788963101117-rkif5",
-      "polyclinic_id": "poli-anak",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965691831-964",
-      "doctor_id": "doc-1788963024477-16fkb",
-      "polyclinic_id": "poli-rehab",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T10:15:42.131967+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966224020-60",
-      "doctor_id": "doc-1788963617897-g3zxm",
-      "polyclinic_id": "poli-gizi",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1789219471724-834",
-      "doctor_id": "doc-1788964412714-19y97",
-      "polyclinic_id": "poli-1789218809876",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T13:23:06.102293+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966325204-344",
-      "doctor_id": "doc-1788963814738-19k7s",
-      "polyclinic_id": "poli-gigi-perio",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966347365-53",
-      "doctor_id": "doc-1788963843877-aubng",
-      "polyclinic_id": "poli-gigi-perio",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966347368-813",
-      "doctor_id": "doc-1788963843877-aubng",
-      "polyclinic_id": "poli-gigi-perio",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965970019-802",
-      "doctor_id": "doc-1788963289727-funbk",
-      "polyclinic_id": "poli-5",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959606500-415",
-      "doctor_id": "doc-1788959564306",
-      "polyclinic_id": "poli-2",
-      "day_of_week": 2,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965920901-245",
-      "doctor_id": "doc-1788963240442-fxmiy",
-      "polyclinic_id": "poli-bedah",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965920904-159",
-      "doctor_id": "doc-1788963240442-fxmiy",
-      "polyclinic_id": "poli-bedah",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965946166-880",
-      "doctor_id": "doc-1788963262274-le5yy",
-      "polyclinic_id": "poli-bedah",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965970022-229",
-      "doctor_id": "doc-1788963289727-funbk",
-      "polyclinic_id": "poli-5",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965983163-309",
-      "doctor_id": "doc-1788963333880-r4ea1",
-      "polyclinic_id": "poli-5",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965983166-592",
-      "doctor_id": "doc-1788963333880-r4ea1",
-      "polyclinic_id": "poli-5",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965998519-82",
-      "doctor_id": "doc-1788963357810-dj8xf",
-      "polyclinic_id": "poli-5",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965998522-484",
-      "doctor_id": "doc-1788963357810-dj8xf",
-      "polyclinic_id": "poli-5",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966082192-459",
-      "doctor_id": "doc-1788963420072-i0dkc",
-      "polyclinic_id": "poli-obgyn",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966082194-918",
-      "doctor_id": "doc-1788963420072-i0dkc",
-      "polyclinic_id": "poli-obgyn",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966082196-6",
-      "doctor_id": "doc-1788963420072-i0dkc",
-      "polyclinic_id": "poli-obgyn",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966095203-582",
-      "doctor_id": "doc-1788963444349-djoug",
-      "polyclinic_id": "poli-obgyn",
-      "day_of_week": 4,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966095206-755",
@@ -2225,7 +1277,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966095207-571",
@@ -2237,7 +1289,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966160465-650",
@@ -2249,223 +1301,19 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
-      "id": "sch-1788966160468-981",
-      "doctor_id": "doc-1788963500965-l9urn",
-      "polyclinic_id": "poli-3",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966160470-757",
-      "doctor_id": "doc-1788963500965-l9urn",
-      "polyclinic_id": "poli-3",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966176581-695",
-      "doctor_id": "doc-1788963521684-r77y2",
-      "polyclinic_id": "poli-3",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966176584-252",
-      "doctor_id": "doc-1788963521684-r77y2",
-      "polyclinic_id": "poli-3",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966176586-601",
-      "doctor_id": "doc-1788963521684-r77y2",
-      "polyclinic_id": "poli-3",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788958276145-321",
-      "doctor_id": "doc-1788958218986",
-      "polyclinic_id": "poli-1",
-      "day_of_week": 5,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788958276145-221",
-      "doctor_id": "doc-1788958218986",
-      "polyclinic_id": "poli-1",
-      "day_of_week": 6,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788959606498-912",
-      "doctor_id": "doc-1788959564306",
-      "polyclinic_id": "poli-2",
-      "day_of_week": 1,
-      "start_time": "09:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965691836-831",
-      "doctor_id": "doc-1788963024477-16fkb",
-      "polyclinic_id": "poli-rehab",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T10:15:57.941888+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966509083-726",
-      "doctor_id": "doc-1788964314734-y0rme",
-      "polyclinic_id": "poli-laboratorium",
+      "id": "sch-1788965540264-214",
+      "doctor_id": "doc-1788962853855-onyuh",
+      "polyclinic_id": "poli-tht",
       "day_of_week": 4,
       "start_time": "10:00:00",
       "end_time": "14:00:00",
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966509085-193",
-      "doctor_id": "doc-1788964314734-y0rme",
-      "polyclinic_id": "poli-laboratorium",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1789219196276-579",
-      "doctor_id": "doc-1788964367401-fyljt",
-      "polyclinic_id": "poli-1789218750636",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T13:18:30.750267+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965480329-278",
-      "doctor_id": "doc-1788962813840-xrqxn",
-      "polyclinic_id": "poli-saraf",
-      "day_of_week": 5,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788965691834-200",
-      "doctor_id": "doc-1788963024477-16fkb",
-      "polyclinic_id": "poli-rehab",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": null,
-      "created_at": "2026-09-12T10:15:47.623136+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966409209-841",
-      "doctor_id": "doc-1788963962715-4u0xg",
-      "polyclinic_id": "poli-bedah-saraf",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966424270-561",
-      "doctor_id": "doc-1788964097268-dr3ik",
-      "polyclinic_id": "poli-mcu",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966424272-911",
-      "doctor_id": "doc-1788964097268-dr3ik",
-      "polyclinic_id": "poli-mcu",
-      "day_of_week": 2,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966424274-336",
-      "doctor_id": "doc-1788964097268-dr3ik",
-      "polyclinic_id": "poli-mcu",
-      "day_of_week": 3,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966424276-615",
@@ -2477,7 +1325,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966424278-519",
@@ -2489,31 +1337,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966424280-145",
-      "doctor_id": "doc-1788964097268-dr3ik",
-      "polyclinic_id": "poli-mcu",
-      "day_of_week": 6,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
-    },
-    {
-      "id": "sch-1788966487415-716",
-      "doctor_id": "doc-1788964245058-ty14m",
-      "polyclinic_id": "poli-radiologi",
-      "day_of_week": 1,
-      "start_time": "10:00:00",
-      "end_time": "14:00:00",
-      "is_active": true,
-      "note": "",
-      "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966487418-286",
@@ -2525,7 +1349,1183 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965897214-264",
+      "doctor_id": "doc-1788963214102-nm49s",
+      "polyclinic_id": "poli-bedah",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966201763-451",
+      "doctor_id": "doc-1788963584662-x3z6k",
+      "polyclinic_id": "poli-nyeri",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966201766-142",
+      "doctor_id": "doc-1788963584662-x3z6k",
+      "polyclinic_id": "poli-nyeri",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966201768-512",
+      "doctor_id": "doc-1788963584662-x3z6k",
+      "polyclinic_id": "poli-nyeri",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1789219196267-365",
+      "doctor_id": "doc-1788964367401-fyljt",
+      "polyclinic_id": "poli-1789218750636",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T13:18:30.732505+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1789219484757-320",
+      "doctor_id": "doc-1788964442554-vo975",
+      "polyclinic_id": "poli-1789218809876",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T13:23:18.863106+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966409200-8",
+      "doctor_id": "doc-1788963962715-4u0xg",
+      "polyclinic_id": "poli-bedah-saraf",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966409202-664",
+      "doctor_id": "doc-1788963962715-4u0xg",
+      "polyclinic_id": "poli-bedah-saraf",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966409205-680",
+      "doctor_id": "doc-1788963962715-4u0xg",
+      "polyclinic_id": "poli-bedah-saraf",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966409207-178",
+      "doctor_id": "doc-1788963962715-4u0xg",
+      "polyclinic_id": "poli-bedah-saraf",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966201770-18",
+      "doctor_id": "doc-1788963584662-x3z6k",
+      "polyclinic_id": "poli-nyeri",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966201772-362",
+      "doctor_id": "doc-1788963584662-x3z6k",
+      "polyclinic_id": "poli-nyeri",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966201774-972",
+      "doctor_id": "doc-1788963584662-x3z6k",
+      "polyclinic_id": "poli-nyeri",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966224015-750",
+      "doctor_id": "doc-1788963617897-g3zxm",
+      "polyclinic_id": "poli-gizi",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966224018-289",
+      "doctor_id": "doc-1788963617897-g3zxm",
+      "polyclinic_id": "poli-gizi",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966374956-913",
+      "doctor_id": "doc-1788963884886-wwtia",
+      "polyclinic_id": "poli-gigi-prosth",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966374958-983",
+      "doctor_id": "doc-1788963884886-wwtia",
+      "polyclinic_id": "poli-gigi-prosth",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966389881-976",
+      "doctor_id": "doc-1788963910472-nvxwy",
+      "polyclinic_id": "poli-gigi-prosth",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966389884-897",
+      "doctor_id": "doc-1788963910472-nvxwy",
+      "polyclinic_id": "poli-gigi-prosth",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966389886-863",
+      "doctor_id": "doc-1788963910472-nvxwy",
+      "polyclinic_id": "poli-gigi-prosth",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966409197-562",
+      "doctor_id": "doc-1788963962715-4u0xg",
+      "polyclinic_id": "poli-bedah-saraf",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966509088-295",
+      "doctor_id": "doc-1788964314734-y0rme",
+      "polyclinic_id": "poli-laboratorium",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966235293-527",
+      "doctor_id": "doc-1788963675924-aih9q",
+      "polyclinic_id": "poli-gizi",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966266776-990",
+      "doctor_id": "doc-1788963730168-ncgau",
+      "polyclinic_id": "poli-gigi-endo",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966266778-629",
+      "doctor_id": "doc-1788963730168-ncgau",
+      "polyclinic_id": "poli-gigi-endo",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966266780-89",
+      "doctor_id": "doc-1788963730168-ncgau",
+      "polyclinic_id": "poli-gigi-endo",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966424280-145",
+      "doctor_id": "doc-1788964097268-dr3ik",
+      "polyclinic_id": "poli-mcu",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966487415-716",
+      "doctor_id": "doc-1788964245058-ty14m",
+      "polyclinic_id": "poli-radiologi",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966325202-916",
+      "doctor_id": "doc-1788963814738-19k7s",
+      "polyclinic_id": "poli-gigi-perio",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959606503-316",
+      "doctor_id": "doc-1788959564306",
+      "polyclinic_id": "poli-2",
+      "day_of_week": 4,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959606505-996",
+      "doctor_id": "doc-1788959564306",
+      "polyclinic_id": "poli-2",
+      "day_of_week": 5,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959606508-545",
+      "doctor_id": "doc-1788959564306",
+      "polyclinic_id": "poli-2",
+      "day_of_week": 6,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959845364-86",
+      "doctor_id": "doc-1788959781562",
+      "polyclinic_id": "poli-4",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959845367-790",
+      "doctor_id": "doc-1788959781562",
+      "polyclinic_id": "poli-4",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959845369-513",
+      "doctor_id": "doc-1788959781562",
+      "polyclinic_id": "poli-4",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959845370-165",
+      "doctor_id": "doc-1788959781562",
+      "polyclinic_id": "poli-4",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959845372-685",
+      "doctor_id": "doc-1788959781562",
+      "polyclinic_id": "poli-4",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1789219196261-809",
+      "doctor_id": "doc-1788964367401-fyljt",
+      "polyclinic_id": "poli-1789218750636",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T13:18:30.451377+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1789219471734-908",
+      "doctor_id": "doc-1788964412714-19y97",
+      "polyclinic_id": "poli-1789218809876",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T13:23:06.100676+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965480327-113",
+      "doctor_id": "doc-1788962813840-xrqxn",
+      "polyclinic_id": "poli-saraf",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965435981-277",
+      "doctor_id": "doc-1788962730041-dzveg",
+      "polyclinic_id": "poli-paru",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965435982-136",
+      "doctor_id": "doc-1788962730041-dzveg",
+      "polyclinic_id": "poli-paru",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965469787-43",
+      "doctor_id": "doc-1788962779092-si7at",
+      "polyclinic_id": "poli-saraf",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965469790-310",
+      "doctor_id": "doc-1788962779092-si7at",
+      "polyclinic_id": "poli-saraf",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965469791-656",
+      "doctor_id": "doc-1788962779092-si7at",
+      "polyclinic_id": "poli-saraf",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965540257-852",
+      "doctor_id": "doc-1788962853855-onyuh",
+      "polyclinic_id": "poli-tht",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965540260-397",
+      "doctor_id": "doc-1788962853855-onyuh",
+      "polyclinic_id": "poli-tht",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965540262-633",
+      "doctor_id": "doc-1788962853855-onyuh",
+      "polyclinic_id": "poli-tht",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965540266-576",
+      "doctor_id": "doc-1788962853855-onyuh",
+      "polyclinic_id": "poli-tht",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965540268-567",
+      "doctor_id": "doc-1788962853855-onyuh",
+      "polyclinic_id": "poli-tht",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965588269-781",
+      "doctor_id": "doc-1788962893046-cyhkl",
+      "polyclinic_id": "poli-onkologi",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965588272-634",
+      "doctor_id": "doc-1788962893046-cyhkl",
+      "polyclinic_id": "poli-onkologi",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965673747-350",
+      "doctor_id": "doc-1788963024477-16fkb",
+      "polyclinic_id": "poli-rehab",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965673750-829",
+      "doctor_id": "doc-1788963024477-16fkb",
+      "polyclinic_id": "poli-rehab",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965673752-128",
+      "doctor_id": "doc-1788963024477-16fkb",
+      "polyclinic_id": "poli-rehab",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965792139-547",
+      "doctor_id": "doc-1788963101117-rkif5",
+      "polyclinic_id": "poli-anak",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965792142-921",
+      "doctor_id": "doc-1788963101117-rkif5",
+      "polyclinic_id": "poli-anak",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965691831-964",
+      "doctor_id": "doc-1788963024477-16fkb",
+      "polyclinic_id": "poli-rehab",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T10:15:42.131967+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966224020-60",
+      "doctor_id": "doc-1788963617897-g3zxm",
+      "polyclinic_id": "poli-gizi",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1789219471724-834",
+      "doctor_id": "doc-1788964412714-19y97",
+      "polyclinic_id": "poli-1789218809876",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T13:23:06.102293+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966325204-344",
+      "doctor_id": "doc-1788963814738-19k7s",
+      "polyclinic_id": "poli-gigi-perio",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966347365-53",
+      "doctor_id": "doc-1788963843877-aubng",
+      "polyclinic_id": "poli-gigi-perio",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966347368-813",
+      "doctor_id": "doc-1788963843877-aubng",
+      "polyclinic_id": "poli-gigi-perio",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965970019-802",
+      "doctor_id": "doc-1788963289727-funbk",
+      "polyclinic_id": "poli-5",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959606500-415",
+      "doctor_id": "doc-1788959564306",
+      "polyclinic_id": "poli-2",
+      "day_of_week": 2,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965920901-245",
+      "doctor_id": "doc-1788963240442-fxmiy",
+      "polyclinic_id": "poli-bedah",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965920904-159",
+      "doctor_id": "doc-1788963240442-fxmiy",
+      "polyclinic_id": "poli-bedah",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965946166-880",
+      "doctor_id": "doc-1788963262274-le5yy",
+      "polyclinic_id": "poli-bedah",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965970022-229",
+      "doctor_id": "doc-1788963289727-funbk",
+      "polyclinic_id": "poli-5",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965983163-309",
+      "doctor_id": "doc-1788963333880-r4ea1",
+      "polyclinic_id": "poli-5",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965983166-592",
+      "doctor_id": "doc-1788963333880-r4ea1",
+      "polyclinic_id": "poli-5",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965998519-82",
+      "doctor_id": "doc-1788963357810-dj8xf",
+      "polyclinic_id": "poli-5",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965998522-484",
+      "doctor_id": "doc-1788963357810-dj8xf",
+      "polyclinic_id": "poli-5",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966160470-757",
+      "doctor_id": "doc-1788963500965-l9urn",
+      "polyclinic_id": "poli-3",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966176581-695",
+      "doctor_id": "doc-1788963521684-r77y2",
+      "polyclinic_id": "poli-3",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966176584-252",
+      "doctor_id": "doc-1788963521684-r77y2",
+      "polyclinic_id": "poli-3",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966176586-601",
+      "doctor_id": "doc-1788963521684-r77y2",
+      "polyclinic_id": "poli-3",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788958276145-321",
+      "doctor_id": "doc-1788958218986",
+      "polyclinic_id": "poli-1",
+      "day_of_week": 5,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788958276145-221",
+      "doctor_id": "doc-1788958218986",
+      "polyclinic_id": "poli-1",
+      "day_of_week": 6,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788959606498-912",
+      "doctor_id": "doc-1788959564306",
+      "polyclinic_id": "poli-2",
+      "day_of_week": 1,
+      "start_time": "09:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965691836-831",
+      "doctor_id": "doc-1788963024477-16fkb",
+      "polyclinic_id": "poli-rehab",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T10:15:57.941888+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966509083-726",
+      "doctor_id": "doc-1788964314734-y0rme",
+      "polyclinic_id": "poli-laboratorium",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966509085-193",
+      "doctor_id": "doc-1788964314734-y0rme",
+      "polyclinic_id": "poli-laboratorium",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1789219196276-579",
+      "doctor_id": "doc-1788964367401-fyljt",
+      "polyclinic_id": "poli-1789218750636",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T13:18:30.750267+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965480329-278",
+      "doctor_id": "doc-1788962813840-xrqxn",
+      "polyclinic_id": "poli-saraf",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965691834-200",
+      "doctor_id": "doc-1788963024477-16fkb",
+      "polyclinic_id": "poli-rehab",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": null,
+      "created_at": "2026-09-12T10:15:47.623136+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966409209-841",
+      "doctor_id": "doc-1788963962715-4u0xg",
+      "polyclinic_id": "poli-bedah-saraf",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966424270-561",
+      "doctor_id": "doc-1788964097268-dr3ik",
+      "polyclinic_id": "poli-mcu",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966424272-911",
+      "doctor_id": "doc-1788964097268-dr3ik",
+      "polyclinic_id": "poli-mcu",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966424274-336",
+      "doctor_id": "doc-1788964097268-dr3ik",
+      "polyclinic_id": "poli-mcu",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966160468-981",
+      "doctor_id": "doc-1788963500965-l9urn",
+      "polyclinic_id": "poli-3",
+      "day_of_week": 5,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966286796-357",
+      "doctor_id": "doc-1788963767053-d4spa",
+      "polyclinic_id": "poli-gigi-endo",
+      "day_of_week": 6,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966325199-797",
+      "doctor_id": "doc-1788963814738-19k7s",
+      "polyclinic_id": "poli-gigi-perio",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966095203-582",
+      "doctor_id": "doc-1788963444349-djoug",
+      "polyclinic_id": "poli-obgyn",
+      "day_of_week": 4,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788965383638-187",
+      "doctor_id": "doc-1788962701482-z0wna",
+      "polyclinic_id": "poli-1788928328490",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966082192-459",
+      "doctor_id": "doc-1788963420072-i0dkc",
+      "polyclinic_id": "poli-obgyn",
+      "day_of_week": 1,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966082194-918",
+      "doctor_id": "doc-1788963420072-i0dkc",
+      "polyclinic_id": "poli-obgyn",
+      "day_of_week": 2,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
+    },
+    {
+      "id": "sch-1788966082196-6",
+      "doctor_id": "doc-1788963420072-i0dkc",
+      "polyclinic_id": "poli-obgyn",
+      "day_of_week": 3,
+      "start_time": "10:00:00",
+      "end_time": "14:00:00",
+      "is_active": true,
+      "note": "",
+      "created_at": "2026-09-12T09:57:13.348002+00:00",
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966487420-232",
@@ -2537,7 +2537,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966487422-619",
@@ -2549,7 +2549,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966487425-903",
@@ -2561,7 +2561,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966487427-93",
@@ -2573,7 +2573,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966509076-100",
@@ -2585,7 +2585,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966509078-596",
@@ -2597,7 +2597,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1788966509081-84",
@@ -2609,7 +2609,7 @@
       "is_active": true,
       "note": "",
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219471721-697",
@@ -2621,7 +2621,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:05.970925+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219484747-583",
@@ -2633,7 +2633,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:18.818852+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219471729-328",
@@ -2645,7 +2645,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:05.977756+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     },
     {
       "id": "sch-1789219484750-807",
@@ -2657,7 +2657,7 @@
       "is_active": true,
       "note": null,
       "created_at": "2026-09-12T13:23:18.808736+00:00",
-      "updated_at": "2026-09-13T03:48:31.081786+00:00"
+      "updated_at": "2026-09-14T07:06:24.612515+00:00"
     }
   ],
   "overrides": [],
@@ -2667,33 +2667,33 @@
       "title": "Informasi Pembukaan Layanan IGD Jantung RSUD H. Andi Sulthan Daeng Radja",
       "media_type": "image",
       "file_path": "announcements/informasi-pembukaan-layanan-igd-jantung-rsud-h.-andi-sulthan-daeng-radja",
-      "public_url": "/uploads/announcements/1789004357391_Desain_tanpa_judul.png",
+      "public_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/announcements/1789283069150_1789004357391_Desain_tanpa_judul.png",
       "sort_order": 1,
       "is_active": true,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.899177+00:00"
+      "updated_at": "2026-09-14T07:06:24.559225+00:00"
     },
     {
       "id": "med-1788967706208",
       "title": "Alur Penanganan Pengaduan, Saran, dan Masukan",
       "media_type": "image",
       "file_path": "announcements/alur-penanganan-pengaduan,-saran,-dan-masukan",
-      "public_url": "/uploads/announcements/1789015621159_Alur_Penanganan_Pengaduan_70x120__1_.png",
+      "public_url": "https://blfczpawtkouxtouszcp.supabase.co/storage/v1/object/public/announcements/1789283078600_Alur_Penanganan_Pengaduan_70x120__1_.png",
       "sort_order": 2,
       "is_active": true,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.899177+00:00"
+      "updated_at": "2026-09-14T07:06:24.559225+00:00"
     },
     {
       "id": "med-1788948308527",
       "title": "Panduan Pendaftaran Online & Antrean Pasien BPJS Mobile JKN",
       "media_type": "video",
       "file_path": "announcements/panduan-pendaftaran-online-&-antrean-pasien-bpjs-mobile-jkn",
-      "public_url": "/uploads/announcements/1789013478630_IMG_6874_MP4.mp4",
+      "public_url": "https://archive.org/download/img-6874_202609/IMG_6874.mp4",
       "sort_order": 3,
       "is_active": true,
       "created_at": "2026-09-12T09:57:13.348002+00:00",
-      "updated_at": "2026-09-13T03:48:30.899177+00:00"
+      "updated_at": "2026-09-14T07:06:24.559225+00:00"
     }
   ],
   "settings": {
@@ -2703,13 +2703,13 @@
     "timezone": "Asia/Makassar",
     "date_format": "dd MMMM yyyy",
     "time_format": "HH:mm",
-    "slide_duration_seconds": 30,
-    "image_duration_seconds": 20,
+    "slide_duration_seconds": 35,
+    "image_duration_seconds": 30,
     "video_wait_for_end": true,
     "video_sound_enabled": true,
-    "refresh_interval_seconds": 30,
+    "refresh_interval_seconds": 120,
     "font_scale": 1,
-    "card_scale": 1,
+    "card_scale": 0.85,
     "header_scale": 1,
     "footer_scale": 1,
     "show_page_indicator": true,
@@ -2719,82 +2719,450 @@
     "emergency_title": "PENGUMUMAN LAYANAN POLIKLINIK",
     "emergency_message": "Poli Penyakit Dalam hari ini beroperasi normal hingga pukul 14.00 WITA.",
     "emergency_level": "warning",
-    "running_text": "Pengaduan: +62 811-4441-100 • Facebook: RSUD BULUKUMBA • Instagram: @RSUDBULUKUMBA • Melayani Dengan Sepenuh Hati",
+    "running_text": "Pengaduan: +62 811-4441-100 • Facebook: RSUD BULUKUMBA • Instagram: @RSUDBULUKUMBA • www.rsud.bulukumbakab.go.id • Melayani Dengan Sepenuh Hati",
     "running_text_speed": 26,
     "running_text_direction": "left",
-    "screen_mode": "65",
+    "screen_mode": "55",
     "id": 1,
-    "master_pin_hash": "$2a$10$TvzaVocsRrZ9/AOrNNjzc.nvdhT.Fl0zOu/osQk7m0WOxTPUWKfZu",
-    "updated_at": "2026-09-13T03:48:30.905076+00:00"
+    "master_pin_hash": "PIN#112233",
+    "updated_at": "2026-09-14T07:10:04.320555+00:00"
   },
   "footerNotices": [],
   "auditLogs": [
     {
-      "id": "log-1789272820552-xyjq",
-      "timestamp": "2026-09-13T04:13:40.552Z",
+      "id": "log-1789369920393",
+      "timestamp": "2026-09-14T07:12:00.393Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas Administrator",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789369673311",
+      "timestamp": "2026-09-14T07:07:53.311Z",
+      "action": "Ekspor Data ke Cloud",
+      "entity_type": "settings",
+      "actor_name": "Petugas Administrator",
+      "details": "Seluruh data lokal diunggah ke Supabase."
+    },
+    {
+      "id": "log-1789369607775",
+      "timestamp": "2026-09-14T07:06:47.775Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas Administrator",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789275399182-9wxx",
+      "timestamp": "2026-09-13T04:56:39.182Z",
       "action": "Sinkronisasi Cloud Supabase",
       "entity_type": "settings",
       "actor_name": "Petugas RSUD",
       "details": "Data kiosk disinkron dari database cloud."
     },
     {
-      "id": "log-1789225250065-gyl5",
-      "timestamp": "2026-09-12T15:00:50.065Z",
+      "id": "log-1789221355547-npzo",
+      "timestamp": "2026-09-12T13:55:55.547Z",
       "action": "Sinkronisasi Cloud Supabase",
       "entity_type": "settings",
       "actor_name": "Petugas RSUD",
       "details": "Data kiosk disinkron dari database cloud."
     },
     {
-      "id": "log-1789225212486-n5tl",
-      "timestamp": "2026-09-12T15:00:12.486Z",
+      "id": "log-1789221197870-nm4w",
+      "timestamp": "2026-09-12T13:53:17.870Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789220612322-3wd8",
+      "timestamp": "2026-09-12T13:43:32.322Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789220361125-gtw0",
+      "timestamp": "2026-09-12T13:39:21.125Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789220320355-nvnf",
+      "timestamp": "2026-09-12T13:38:40.355Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789216161030-ftas",
+      "timestamp": "2026-09-12T12:29:21.030Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789209076397-tkxd",
+      "timestamp": "2026-09-12T10:31:16.397Z",
       "action": "Ekspor Data ke Cloud",
       "entity_type": "settings",
       "actor_name": "Petugas RSUD",
       "details": "Seluruh data lokal diunggah ke Supabase."
     },
     {
-      "id": "log-1789225208800-wtxv",
-      "timestamp": "2026-09-12T15:00:08.800Z",
-      "action": "Menghapus Poliklinik",
-      "entity_type": "polyclinic",
-      "entity_id": "poli-1789221349020",
-      "actor_name": "Petugas RSUD",
-      "details": "Poliklinik Poliklinik Paru & Respirasi dihapus."
-    },
-    {
-      "id": "log-1789225153591-4ffa",
-      "timestamp": "2026-09-12T14:59:13.591Z",
+      "id": "log-1789208939920-34is",
+      "timestamp": "2026-09-12T10:28:59.920Z",
       "action": "Ekspor Data ke Cloud",
       "entity_type": "settings",
       "actor_name": "Petugas RSUD",
       "details": "Seluruh data lokal diunggah ke Supabase."
     },
     {
-      "id": "log-1789225148453-xkeq",
-      "timestamp": "2026-09-12T14:59:08.453Z",
-      "action": "Memperbarui Dokter",
+      "id": "log-1789208933669-y40j",
+      "timestamp": "2026-09-12T10:28:53.670Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789208776282-d4hn",
+      "timestamp": "2026-09-12T10:26:16.282Z",
+      "action": "Sinkronisasi Cloud Supabase",
+      "entity_type": "settings",
+      "actor_name": "Petugas RSUD",
+      "details": "Data kiosk disinkron dari database cloud."
+    },
+    {
+      "id": "log-1789208243441-v84l",
+      "timestamp": "2026-09-12T10:17:23.441Z",
+      "action": "Menyimpan Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788965691836-831",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-5 (10:00:00-14:00:00) disimpan."
+    },
+    {
+      "id": "log-1789208233115-ppwu",
+      "timestamp": "2026-09-12T10:17:13.115Z",
+      "action": "Menyimpan Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788965691834-200",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-3 (10:00:00-14:00:00) disimpan."
+    },
+    {
+      "id": "log-1789208224933-xuty",
+      "timestamp": "2026-09-12T10:17:04.933Z",
+      "action": "Menyimpan Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788965691831-964",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-1 (10:00:00-14:00:00) disimpan."
+    },
+    {
+      "id": "log-1789208204432-n0ww",
+      "timestamp": "2026-09-12T10:16:44.432Z",
+      "action": "Menghapus Dokter",
       "entity_type": "doctor",
-      "entity_id": "doc-1788963262274-le5yy",
+      "entity_id": "doc-1788963071802-1kjcu",
       "actor_name": "Petugas RSUD",
-      "details": "Data dokter dr. Muhammad Djunaid, Sp.B diperbarui."
+      "details": "Dokter dr. Muthiah Nur Afifah dihapus."
     },
     {
-      "id": "log-1789225088892-bg7i",
-      "timestamp": "2026-09-12T14:58:08.892Z",
+      "id": "log-1789208147573-tehi",
+      "timestamp": "2026-09-12T10:15:47.573Z",
       "action": "Sinkronisasi Cloud Supabase",
       "entity_type": "settings",
       "actor_name": "Petugas RSUD",
       "details": "Data kiosk disinkron dari database cloud."
     },
     {
-      "id": "log-init",
-      "timestamp": "2026-09-12T14:58:07.350Z",
-      "action": "Sistem Kiosk Siaga",
-      "entity_type": "settings",
-      "actor_name": "Sistem Kiosk RSUD",
-      "details": "Basis data poliklinik dan jadwal aktif dimuat."
+      "id": "log-1789015623714-437n",
+      "timestamp": "2026-09-10T04:47:03.714Z",
+      "action": "Memperbarui Media",
+      "entity_type": "media",
+      "entity_id": "med-1788967706208",
+      "actor_name": "Petugas RSUD",
+      "details": "Media \"Alur Penanganan Pengaduan, Saran, dan Masukan\" diperbarui."
+    },
+    {
+      "id": "log-1789015469252-p3fy",
+      "timestamp": "2026-09-10T04:44:29.252Z",
+      "action": "Geser Urutan Poliklinik",
+      "entity_type": "polyclinic",
+      "entity_id": "poli-mcu",
+      "actor_name": "Petugas RSUD",
+      "details": "Urutan poliklinik MEDICAL CHECK-UP dipindahkan ke #23."
+    },
+    {
+      "id": "log-1789013483024-hcb5",
+      "timestamp": "2026-09-10T04:11:23.024Z",
+      "action": "Memperbarui Media",
+      "entity_type": "media",
+      "entity_id": "med-1788948308527",
+      "actor_name": "Petugas RSUD",
+      "details": "Media \"Panduan Pendaftaran Online & Antrean Pasien BPJS Mobile JKN\" diperbarui."
+    },
+    {
+      "id": "log-1789004361464-ofue",
+      "timestamp": "2026-09-10T01:39:21.464Z",
+      "action": "Memperbarui Media",
+      "entity_type": "media",
+      "entity_id": "med-1",
+      "actor_name": "Petugas RSUD",
+      "details": "Media \"Informasi Pembukaan Layanan IGD Jantung RSUD H. Andi Sulthan Daeng Radja\" diperbarui."
+    },
+    {
+      "id": "log-1789004288401-rjgi",
+      "timestamp": "2026-09-10T01:38:08.401Z",
+      "action": "Memperbarui Media",
+      "entity_type": "media",
+      "entity_id": "med-1",
+      "actor_name": "Petugas RSUD",
+      "details": "Media \"Layanan Unggulan Poliklinik Eksekutif RSUD H. Andi Sulthan Daeng Radja\" diperbarui."
+    },
+    {
+      "id": "log-1788967710594-ing3",
+      "timestamp": "2026-09-09T15:28:30.594Z",
+      "action": "Memperbarui Media",
+      "entity_type": "media",
+      "entity_id": "med-1788948308527",
+      "actor_name": "Petugas RSUD",
+      "details": "Media \"Panduan Pendaftaran Online & Antrean Pasien BPJS Mobile JKN\" diperbarui."
+    },
+    {
+      "id": "log-1788967706208-xgvt",
+      "timestamp": "2026-09-09T15:28:26.208Z",
+      "action": "Menambah Media",
+      "entity_type": "media",
+      "entity_id": "med-1788967706208",
+      "actor_name": "Petugas RSUD",
+      "details": "Media \"Alur Penanganan Pengaduan, Saran, dan Masukan\" (image) ditambahkan."
+    },
+    {
+      "id": "log-1788967572943-mag4",
+      "timestamp": "2026-09-09T15:26:12.943Z",
+      "action": "Memperbarui Master PIN",
+      "entity_type": "auth",
+      "actor_name": "Petugas RSUD",
+      "details": "Master PIN Kiosk berhasil diubah."
+    },
+    {
+      "id": "log-1788966573383-w6i6",
+      "timestamp": "2026-09-09T15:09:33.383Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966573382-801",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-6 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966573381-2h1r",
+      "timestamp": "2026-09-09T15:09:33.381Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966573380-423",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-5 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966573379-nw1i",
+      "timestamp": "2026-09-09T15:09:33.379Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966573378-976",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-4 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966573377-c7rx",
+      "timestamp": "2026-09-09T15:09:33.377Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966573376-215",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-3 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966573375-npr5",
+      "timestamp": "2026-09-09T15:09:33.375Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966573374-655",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-2 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966573373-xd8b",
+      "timestamp": "2026-09-09T15:09:33.373Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966573371-40",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-1 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966558146-ozz2",
+      "timestamp": "2026-09-09T15:09:18.146Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966558145-580",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-6 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966558144-so1o",
+      "timestamp": "2026-09-09T15:09:18.144Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966558143-976",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-5 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966558142-jm15",
+      "timestamp": "2026-09-09T15:09:18.142Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966558140-493",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-4 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966558139-ttw2",
+      "timestamp": "2026-09-09T15:09:18.139Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966558139-712",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-3 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966558138-b1g2",
+      "timestamp": "2026-09-09T15:09:18.138Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966558136-719",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-2 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966558135-qas8",
+      "timestamp": "2026-09-09T15:09:18.135Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966558134-690",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-1 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966544625-1ucg",
+      "timestamp": "2026-09-09T15:09:04.625Z",
+      "action": "Menghapus Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966539193-40",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal ID sch-1788966539193-40 dihapus."
+    },
+    {
+      "id": "log-1788966539195-ayu5",
+      "timestamp": "2026-09-09T15:08:59.195Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966539193-40",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-3 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966528046-6yro",
+      "timestamp": "2026-09-09T15:08:48.046Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966528045-769",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-6 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966528044-uvcc",
+      "timestamp": "2026-09-09T15:08:48.044Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966528043-311",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-5 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966528041-fc63",
+      "timestamp": "2026-09-09T15:08:48.041Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966528040-324",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-4 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966528039-6qxu",
+      "timestamp": "2026-09-09T15:08:48.039Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966528038-751",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-3 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966528037-20r2",
+      "timestamp": "2026-09-09T15:08:48.037Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966528035-39",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-2 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966528034-vlno",
+      "timestamp": "2026-09-09T15:08:48.034Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966528033-507",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-1 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966509089-6mcr",
+      "timestamp": "2026-09-09T15:08:29.089Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966509088-295",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-6 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966509087-l07a",
+      "timestamp": "2026-09-09T15:08:29.087Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966509085-193",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-5 (10:00:00-14:00:00) ditambahkan."
+    },
+    {
+      "id": "log-1788966509084-17gm",
+      "timestamp": "2026-09-09T15:08:29.084Z",
+      "action": "Menambah Jadwal",
+      "entity_type": "schedule",
+      "entity_id": "sch-1788966509083-726",
+      "actor_name": "Petugas RSUD",
+      "details": "Jadwal hari ke-4 (10:00:00-14:00:00) ditambahkan."
     }
   ],
-  "masterPin": "1234"
+  "masterPin": "112233"
 }

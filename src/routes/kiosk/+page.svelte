@@ -381,30 +381,30 @@
 				// Panel 53.5 x 95.2 cm: Jarak 1.5 - 2.5m (Kompak & Padat)
 				return {
 					fontScale: 0.88 * baseFont,
-					cardScale: 0.86 * baseCard,
+					cardScale: 0.77 * baseCard,
 					headerScale: 0.88 * baseHeader,
 					footerScale: 0.88 * baseFooter,
 					headerHeight: Math.round(120 * baseHeader) + 'px',
 					footerHeight: Math.round(124 * baseFooter) + 'px',
-					contentGap: (0.90 * baseCard).toFixed(2) + 'rem',
-					doctorPhotoW: Math.round(102 * baseCard) + 'px',
-					doctorPhotoH: Math.round(114 * baseCard) + 'px',
-					doctorNameSize: (1.15 * baseFont).toFixed(2) + 'rem',
+					contentGap: (0.85 * baseCard).toFixed(2) + 'rem',
+					doctorPhotoW: Math.round(92 * baseCard) + 'px',
+					doctorPhotoH: Math.round(103 * baseCard) + 'px',
+					doctorNameSize: (1.04 * baseFont).toFixed(2) + 'rem',
 					label: '43" (53,5 × 95,2 cm)'
 				};
 			case '65':
 				// Panel 80.9 x 143.9 cm: Jarak 4 - 7+ m (Monumental & Megah)
 				return {
 					fontScale: 1.06 * baseFont,
-					cardScale: 1.05 * baseCard,
+					cardScale: 0.95 * baseCard,
 					headerScale: 1.05 * baseHeader,
 					footerScale: 1.04 * baseFooter,
 					headerHeight: Math.round(148 * baseHeader) + 'px',
 					footerHeight: Math.round(152 * baseFooter) + 'px',
-					contentGap: (1.25 * baseCard).toFixed(2) + 'rem',
-					doctorPhotoW: Math.round(128 * baseCard) + 'px',
-					doctorPhotoH: Math.round(144 * baseCard) + 'px',
-					doctorNameSize: (1.38 * baseFont).toFixed(2) + 'rem',
+					contentGap: (1.15 * baseCard).toFixed(2) + 'rem',
+					doctorPhotoW: Math.round(115 * baseCard) + 'px',
+					doctorPhotoH: Math.round(130 * baseCard) + 'px',
+					doctorNameSize: (1.24 * baseFont).toFixed(2) + 'rem',
 					label: '65" (80,9 × 143,9 cm)'
 				};
 			case '55':
@@ -412,15 +412,15 @@
 				// Panel 68.5 x 121.8 cm: Standar RSUD Fortu Digital E550HZI (Skala Megah, Proporsional & Rapi)
 				return {
 					fontScale: 0.95 * baseFont,
-					cardScale: 0.95 * baseCard,
+					cardScale: 0.85 * baseCard,
 					headerScale: 1.0 * baseHeader,
 					footerScale: 1.0 * baseFooter,
 					headerHeight: Math.round(132 * baseHeader) + 'px',
 					footerHeight: Math.round(140 * baseFooter) + 'px',
-					contentGap: (1.08 * baseCard).toFixed(2) + 'rem',
-					doctorPhotoW: Math.round(118 * baseCard) + 'px',
-					doctorPhotoH: Math.round(131 * baseCard) + 'px',
-					doctorNameSize: (1.25 * baseFont).toFixed(2) + 'rem',
+					contentGap: (0.98 * baseCard).toFixed(2) + 'rem',
+					doctorPhotoW: Math.round(106 * baseCard) + 'px',
+					doctorPhotoH: Math.round(118 * baseCard) + 'px',
+					doctorNameSize: (1.12 * baseFont).toFixed(2) + 'rem',
 					label: '55" (68,5 × 121,8 cm)'
 				};
 		}

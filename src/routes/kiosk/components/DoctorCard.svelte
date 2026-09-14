@@ -103,15 +103,15 @@
 <style>
 	.doctor-card {
 		background: #ffffff;
-		border-radius: 1.25rem;
-		padding: clamp(0.68rem, 1.15vh, 1.08rem) clamp(1rem, 1.5vw, 1.48rem);
+		border-radius: 1.1rem;
+		padding: clamp(0.58rem, 1.0vh, 0.95rem) clamp(0.85rem, 1.3vw, 1.32rem);
 		display: grid;
-		grid-template-columns: var(--doctor-photo-w, 118px) 1fr auto;
+		grid-template-columns: var(--doctor-photo-w, 106px) 1fr auto;
 		align-items: center;
-		gap: clamp(0.75rem, 1.3vw, 1.25rem);
+		gap: clamp(0.65rem, 1.1vw, 1.1rem);
 		box-shadow:
-			0 8px 24px -4px rgba(0, 0, 0, 0.06),
-			0 2px 8px -1px rgba(0, 0, 0, 0.02);
+			0 7px 20px -3px rgba(0, 0, 0, 0.05),
+			0 2px 6px -1px rgba(0, 0, 0, 0.02);
 		border: 1.5px solid #eef2f6;
 		flex: 0 1 auto;
 		min-height: 0;
@@ -142,9 +142,9 @@
 	}
 
 	.doctor-photo-frame {
-		width: var(--doctor-photo-w, 118px);
-		height: var(--doctor-photo-h, 131px);
-		border-radius: 0.95rem;
+		width: var(--doctor-photo-w, 106px);
+		height: var(--doctor-photo-h, 118px);
+		border-radius: 0.85rem;
 		background: #f1f5f9;
 		overflow: hidden;
 		display: flex;
@@ -172,7 +172,7 @@
 	}
 
 	.avatar-initials {
-		font-size: 2.2rem;
+		font-size: 1.95rem;
 		font-weight: 850;
 		color: #64748b;
 		letter-spacing: -0.02em;
@@ -181,24 +181,24 @@
 	.doctor-details {
 		display: flex;
 		flex-direction: column;
-		gap: 0.4rem;
+		gap: 0.35rem;
 		min-width: 0;
 	}
 
 	.doctor-name {
-		font-size: var(--doctor-name-size, 1.25rem);
+		font-size: var(--doctor-name-size, 1.12rem);
 		font-weight: 850;
 		color: #0f172a;
 		margin: 0;
 		letter-spacing: -0.015em;
-		line-height: 1.22;
+		line-height: 1.2;
 		word-break: break-word;
 	}
 
 	.schedule-chips-row {
 		display: grid;
 		grid-template-columns: repeat(2, minmax(0, 1fr));
-		gap: 0.34rem 0.58rem;
+		gap: 0.28rem 0.5rem;
 		align-items: center;
 		width: 100%;
 	}
@@ -209,7 +209,7 @@
 	}
 
 	.no-schedule-text {
-		font-size: 0.8rem;
+		font-size: 0.76rem;
 		color: #94a3b8;
 		font-style: italic;
 	}
@@ -219,19 +219,19 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		min-width: 125px;
+		min-width: 110px;
 	}
 
 	@media (max-width: 768px) {
 		.doctor-card {
-			grid-template-columns: 88px 1fr auto;
-			gap: 0.9rem;
-			padding: 0.75rem 1rem;
+			grid-template-columns: 78px 1fr auto;
+			gap: 0.8rem;
+			padding: 0.68rem 0.9rem;
 		}
 
 		.doctor-photo-frame {
-			width: 88px;
-			height: 98px;
+			width: 78px;
+			height: 88px;
 		}
 
 		.avatar-initials {

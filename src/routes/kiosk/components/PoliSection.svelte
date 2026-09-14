@@ -24,7 +24,7 @@
 	<div class="poli-header-row">
 		<div class="poli-badge">
 			<div class="poli-icon-wrap" aria-hidden="true">
-				<PoliIcon size={16} />
+				<PoliIcon size={14} />
 			</div>
 			<h2 class="poli-name">{section.polyclinic.name}</h2>
 		</div>
@@ -57,31 +57,31 @@
 		flex-direction: column;
 		justify-content: space-between;
 		min-height: 0;
-		gap: clamp(0.4rem, 0.72vh, 0.68rem);
+		gap: clamp(0.35rem, 0.62vh, 0.58rem);
 	}
 
 	.poli-header-row {
 		display: flex;
 		align-items: center;
-		gap: 0.85rem;
+		gap: 0.75rem;
 		flex-shrink: 0;
 	}
 
 	.poli-badge {
 		display: inline-flex;
 		align-items: center;
-		gap: 0.58rem;
+		gap: 0.45rem;
 		background: linear-gradient(135deg, #0A5C36 0%, #0D7A48 100%);
 		border: 1.5px solid #E06A26;
-		padding: 0.4rem 1.15rem 0.4rem 0.68rem;
+		padding: 0.28rem 0.92rem 0.28rem 0.45rem;
 		border-radius: 9999px;
 		color: #FFFFFF;
-		box-shadow: 0 4px 12px rgba(10, 92, 54, 0.22);
+		box-shadow: 0 3px 10px rgba(10, 92, 54, 0.2);
 	}
 
 	.poli-icon-wrap {
-		width: 29px;
-		height: 29px;
+		width: 23px;
+		height: 23px;
 		border-radius: 50%;
 		background: rgba(255, 255, 255, 0.2);
 		display: flex;
@@ -92,9 +92,9 @@
 	}
 
 	.poli-name {
-		font-size: 0.97rem;
+		font-size: 0.86rem;
 		font-weight: 850;
-		letter-spacing: 0.04em;
+		letter-spacing: 0.035em;
 		margin: 0;
 		line-height: 1;
 		color: #FFFFFF;
@@ -108,7 +108,7 @@
 	}
 
 	.doctor-count-badge {
-		font-size: 0.85rem;
+		font-size: 0.78rem;
 		font-weight: 750;
 		color: #475569;
 		letter-spacing: 0.02em;

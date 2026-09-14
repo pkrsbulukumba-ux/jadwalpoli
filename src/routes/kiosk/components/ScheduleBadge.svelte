@@ -15,7 +15,7 @@
 	class:active-today={isToday}
 	title={isToday ? `Hari ini: ${day} (${time})` : `${day} (${time})`}
 >
-	<Calendar size={12} class="chip-icon" />
+	<Calendar size={11} class="chip-icon" />
 	<span class="chip-label">
 		<strong>{day}</strong> • {time}
 	</span>
@@ -25,13 +25,13 @@
 	.schedule-chip {
 		display: inline-flex;
 		align-items: center;
-		gap: 0.28rem;
+		gap: 0.25rem;
 		background: #FFF7ED;
 		border: 1px solid #FFEDD5;
 		color: #9A3412;
-		padding: 0.3rem 0.58rem;
-		border-radius: 0.5rem;
-		font-size: 0.74rem;
+		padding: 0.25rem 0.52rem;
+		border-radius: 0.45rem;
+		font-size: 0.68rem;
 		font-weight: 650;
 		white-space: nowrap;
 		transition: all 0.2s ease;
